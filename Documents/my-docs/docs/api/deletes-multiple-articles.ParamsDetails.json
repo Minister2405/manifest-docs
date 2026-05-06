@@ -1,0 +1,1 @@
+{"parameters":[{"name":"articleIds","in":"query","description":"Array of article IDs","required":true,"schema":{"type":"array","items":{"type":"string"}}}]}

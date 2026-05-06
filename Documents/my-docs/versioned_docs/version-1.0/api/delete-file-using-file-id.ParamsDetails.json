@@ -1,0 +1,1 @@
+{"parameters":[{"name":"folderId","in":"path","description":"The ID of the folder in Drive","required":true,"schema":{"type":"string"}},{"name":"fileId","in":"path","description":"The ID of the file in Drive","required":true,"schema":{"type":"string"}}]}

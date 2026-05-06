@@ -1,0 +1,1 @@
+{"parameters":[{"name":"categoryId","in":"path","description":"The ID of the category","required":true,"schema":{"type":"string"}},{"name":"versionNumber","in":"path","description":"Version number of the category to be deleted","required":true,"schema":{"type":"integer","format":"int32"}}]}

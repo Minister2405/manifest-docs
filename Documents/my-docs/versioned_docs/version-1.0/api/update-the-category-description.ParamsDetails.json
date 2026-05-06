@@ -1,0 +1,1 @@
+{"parameters":[{"name":"categoryId","in":"path","description":"The ID of the category","required":true,"schema":{"type":"string"}},{"name":"description","in":"query","description":"The description of the category","schema":{"maxLength":250,"type":"string"}}]}

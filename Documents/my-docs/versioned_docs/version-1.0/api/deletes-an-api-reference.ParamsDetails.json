@@ -1,0 +1,1 @@
+{"parameters":[{"name":"projectVersionId","in":"query","description":"The ID of the project version","required":true,"schema":{"type":"string"}},{"name":"apiReferenceId","in":"query","description":"The ID ofthe API reference","required":true,"schema":{"type":"string"}}]}

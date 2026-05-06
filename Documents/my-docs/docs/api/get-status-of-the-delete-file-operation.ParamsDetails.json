@@ -1,0 +1,1 @@
+{"parameters":[{"name":"taskId","in":"path","description":"The task ID of the file deleted","required":true,"schema":{"type":"string"}}]}

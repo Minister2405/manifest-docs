@@ -1,0 +1,1 @@
+{"parameters":[{"name":"readerId","in":"path","description":"The ID of the reader to be deleted","required":true,"schema":{"type":"string"}}]}

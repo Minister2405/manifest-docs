@@ -1,0 +1,1 @@
+{"parameters":[{"name":"userId","in":"path","description":"The ID of the team account to be deleted","required":true,"schema":{"type":"string"}}]}

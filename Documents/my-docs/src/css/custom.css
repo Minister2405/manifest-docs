@@ -1,0 +1,54 @@
+/**
+ * Global website styling
+ */
+
+:root {
+  --ifm-color-primary: #7c3aed;
+  --ifm-color-primary-dark: #6d28d9;
+  --ifm-color-primary-darker: #5b21b6;
+  --ifm-color-primary-darkest: #4c1d95;
+
+  --ifm-color-primary-light: #8b5cf6;
+  --ifm-color-primary-lighter: #a78bfa;
+  --ifm-color-primary-lightest: #c4b5fd;
+
+  --ifm-code-font-size: 95%;
+}
+
+/* Hero Banner */
+.hero--primary {
+  background: linear-gradient(135deg, #6d28d9, #9333ea);
+  color: white;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #ffffff;
+}
+
+/* Buttons */
+.button.button--secondary {
+  background-color: white;
+  color: #5b21b6;
+  border: none;
+  font-weight: 600;
+}
+
+.button.button--secondary:hover {
+  background-color: #ede9fe;
+  color: #4c1d95;
+}
+
+/* Sidebar active item */
+.menu__link--active {
+  color: #7c3aed !important;
+}
+
+/* Links */
+a {
+  color: #7c3aed;
+}
+
+a:hover {
+  color: #5b21b6;
+}

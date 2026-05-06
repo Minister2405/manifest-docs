@@ -1,0 +1,1 @@
+{"parameters":[{"name":"groupId","in":"path","description":"The ID of the reader group","required":true,"schema":{"type":"string"}},{"name":"offSet","in":"query","description":"Specify the pagination to be retrieved. Each pagination retrieves 5000 readers. The default value is 1.","schema":{"type":"integer","format":"int32","default":1}}]}

@@ -1,0 +1,1 @@
+{"parameters":[{"name":"folderId","in":"query","description":"The ID of drive folder","required":true,"schema":{"type":"string"}}]}

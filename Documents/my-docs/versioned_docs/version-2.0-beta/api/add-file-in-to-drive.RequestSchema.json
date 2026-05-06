@@ -1,0 +1,1 @@
+{"title":"Body","body":{"content":{"multipart/form-data":{"schema":{"required":["files"],"type":"object","properties":{"files":{"type":"array","items":{"type":"string","format":"binary"},"description":"File collection -The maximum file size upload limit is 40MB"}}},"encoding":{"files":{"style":"form"}}}}}}

@@ -1,0 +1,35 @@
+asyncapi: '2.6.0'
+
+info:
+  title: Order Events API
+  version: '1.0.0'
+  description: AsyncAPI documentation for order events
+
+servers:
+  production:
+    url: broker.mycompany.com:9092
+    protocol: kafka
+    description: Production Kafka broker
+
+channels:
+  order/created:
+    subscribe:
+      summary: Receive order created events
+      operationId: onOrderCreated
+      message:
+        $ref: '#/components/messages/OrderCreated'
+
+components:
+  messages:
+    OrderCreated:
+      name: OrderCreated
+      title: Order Created Event
+      payload:
+        type: object
+        properties:
+          orderId:
+            type: string
+          customerName:
+            type: string
+          total:
+            type: number

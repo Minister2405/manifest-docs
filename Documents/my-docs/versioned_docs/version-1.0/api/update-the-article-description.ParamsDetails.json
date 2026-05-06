@@ -1,0 +1,1 @@
+{"parameters":[{"name":"articleId","in":"path","description":"The ID of the article","required":true,"schema":{"type":"string"}},{"name":"description","in":"query","description":"The description of the article","schema":{"maxLength":250,"type":"string"}}]}

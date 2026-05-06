@@ -1,0 +1,1 @@
+{"parameters":[{"name":"categoryId","in":"path","description":"The ID of the category","required":true,"schema":{"type":"string"}},{"name":"langCode","in":"query","description":"If the language code is empty, the default language of the category will be taken into account.","schema":{"type":"string"}}]}

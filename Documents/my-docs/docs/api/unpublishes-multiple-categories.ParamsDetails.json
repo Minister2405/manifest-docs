@@ -1,0 +1,1 @@
+{"parameters":[{"name":"langCode","in":"path","description":"Language code of the category","required":true,"schema":{"type":"string","default":"en"}}]}

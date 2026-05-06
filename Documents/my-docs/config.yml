@@ -1,0 +1,9 @@
+introspection:
+  introspectionFile: ./introspection.json
+
+servers:
+  - url: https://swapi-graphql.netlify.app/.netlify/functions/index
+
+info:
+  title: Star Wars GraphQL API
+  description: GraphQL documentation generated using SpectaQL

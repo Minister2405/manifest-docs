@@ -1,0 +1,1 @@
+{"parameters":[{"name":"emailId","in":"query","description":"Provide email address that has to be checked against the current team account list","required":true,"schema":{"type":"string","format":"email"}},{"name":"isAnSsoUser","in":"query","description":"Filter SSO team accounts","schema":{"type":"boolean","default":false}}]}

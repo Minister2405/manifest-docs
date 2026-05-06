@@ -1,0 +1,1 @@
+{"parameters":[{"name":"apiReferenceId","in":"path","description":"The ID of the API reference","required":true,"schema":{"type":"string"}},{"name":"logId","in":"path","description":"The ID of the log","required":true,"schema":{"type":"string"}}]}

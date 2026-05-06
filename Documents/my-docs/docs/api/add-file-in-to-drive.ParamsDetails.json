@@ -1,0 +1,1 @@
+{"parameters":[{"name":"DriveFolderId","in":"query","description":"The folder ID","required":true,"schema":{"type":"string"}},{"name":"UserId","in":"query","description":"The ID of the team account","required":true,"schema":{"type":"string"}}]}

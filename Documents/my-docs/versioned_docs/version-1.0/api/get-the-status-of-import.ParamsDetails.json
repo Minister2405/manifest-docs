@@ -1,0 +1,1 @@
+{"parameters":[{"name":"importId","in":"path","description":"The ID of import request","required":true,"schema":{"type":"string"}}]}

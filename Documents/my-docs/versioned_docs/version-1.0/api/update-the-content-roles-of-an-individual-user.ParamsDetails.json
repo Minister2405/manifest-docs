@@ -1,0 +1,1 @@
+{"parameters":[{"name":"userId","in":"path","description":"The ID of the team account for which the content role has to be updated","required":true,"schema":{"type":"string"}}]}

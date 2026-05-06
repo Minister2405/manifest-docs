@@ -1,0 +1,1 @@
+{"parameters":[{"name":"groupId","in":"path","description":"The ID of the reader group","required":true,"schema":{"type":"string"}}]}

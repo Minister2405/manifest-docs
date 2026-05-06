@@ -1,0 +1,1 @@
+{"parameters":[{"name":"emailIds","in":"query","schema":{"type":"array","items":{"type":"string"}}}]}
